@@ -1,6 +1,6 @@
 {
     "name": "windy-plugin-sbeg-visibilidade",
-    "version": "6.0.0",
+    "version": "7.0.0",
     "description": "Cartas de visibilidade do aeroporto Eduardo Gomes (SBEG) - Manaus",
     "main": "dist/plugin.min.js",
     "type": "module",
